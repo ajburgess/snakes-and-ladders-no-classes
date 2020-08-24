@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{17D845CD-DC95-49EE-8ED2-4D54B3A101EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>snakes_and_ladders_no_classes</RootNamespace>
+    <RootNamespace>snakes_and_ladders</RootNamespace>
     <AssemblyName>snakes-and-ladders-no-classes</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
